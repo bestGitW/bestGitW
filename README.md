@@ -20,7 +20,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=230&height=50&lines=Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
-### :metal: Умею:
+## :metal: Умею:
 <ul>
 <li>Разрабатывать телеграм-ботов на языке Python (aiogram)
 <li>Реализовывать базы данных с помощью SQLite
@@ -28,7 +28,7 @@
 <li>Работа над проектами в системе контроля версий git
 <li>Осуществлять деплой ботов на сервер
 </ul>
----
+
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
@@ -36,7 +36,7 @@
 |Проект 2 Реализация бота для продаж электротехнки  (__[github](https://github.com/bestGitW/cafeBot)__)|Необходимо реализовать бота для продажи электротехники в telegram. Бот должен иметь многоуровневый каталог с возможностью оформления заявки на покупку|aiogram, sqlite, loguru.|
 
 
-### :fire: My Stats :
+## :fire: My Stats :
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestGitW)](https://github.com/anuraghazra/github-readme-stats)
 
