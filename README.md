@@ -3,10 +3,10 @@
   <a href="your-linkedin-URL">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/DimDolino">
+  <a href="your-tg-URL">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/judge_cat">
+  <a href="your-vk-URL">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
@@ -22,13 +22,11 @@
 
 ### :metal: Умею:
 <ul>
-<li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
-<li>SQL: вложенные запросы, оконные функции, конструкции case
-<li>Написание ad-hoc запросов
+<li>Разрабатывать телеграм-ботов на языке Python (aiogram)
+<li>Реализовывать базы данных с помощью SQLite
+<li>Писать чисты, документированный код (PEP8)
 <li>Работа над проектами в системе контроля версий git
-<li>Формирование дашбордов
-<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
-<li>Автоматизация процессов через Airflow
+<li>Осуществлять деплой ботов на сервер
 </ul>
 ---
 
