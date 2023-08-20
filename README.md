@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif" width='500'/>
-</div>
+![Header](https://github.com/ditengm/ditengm/blob/main/assets/ezgif-2-2e88184649.gif?raw=true)
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +13,7 @@
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=DimDolino&style=flat-square&color=blue" alt=""/>
 <h1>
- Hello, I'm Dmitriy
+ Привет! Я - перспективный Python-developer.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
@@ -38,9 +36,6 @@
 |----------------|-----------------|-----|
 |Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
 |Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/vickiticy/for_project_2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
-|Проект 3 RFM-анализ  (__[github](https://github.com/vickiticy/for_project_3)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
-|Проект 4 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проекты SQL  (__[github](https://github.com/vickiticy/for_SQL)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
 
 
 ### :fire: My Stats :
